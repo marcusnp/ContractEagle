@@ -1,0 +1,14 @@
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.json
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Repository.runtimeconfig.dev.json
+C:\Exercicios\ContractEagle\ContractEagle\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Exercicios\ContractEagle\ContractEagle\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
